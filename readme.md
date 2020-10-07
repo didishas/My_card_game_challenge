@@ -22,7 +22,7 @@
 
     
 
-    .
+``` bash
 ├── __pycache__
 │   
 ├── main.py
@@ -34,7 +34,7 @@
     ├── card.py
     ├── game.py
     └── player.py
-
+```
 ### [3. Cards]
     # Card class containing:
 
